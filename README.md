@@ -1,4 +1,4 @@
-# Update_BusinessImplementation_Classification_Novia_Wulandari.ipynb
+# Update_BusinessImplementation_Classification_Novia_Wulandari
 
 Hi, this is my first portfolio data science. My name is Novia Wulandari a data enthusiast who has just started my data learning journey by joining the bootcamp data science batch 17. This project is about making various kinds of machine learning that is suitable for use by dataset that can predict a customer will take a deposit or not. I got this Dataset Bank Marketing Analysis from Kaggle (https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
 
